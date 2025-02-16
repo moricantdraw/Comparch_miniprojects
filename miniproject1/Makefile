@@ -1,4 +1,4 @@
-filename = buttons_and_leds
+filename = miniproject
 pcf_file = ../common/iceBlinkPico.pcf
 
 build:
